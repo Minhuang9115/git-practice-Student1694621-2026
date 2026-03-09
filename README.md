@@ -1,1 +1,9 @@
-# git-practice-Student1694621-2026
+# Git Practical Exam 2026
+
+## Student Information
+- Student ID: {YOUR_ROLLNUMBER}
+- Name: Vu Hoang Minh
+- Class: C2510L
+
+## Objectives
+Practice basic and advanced Git commands.
